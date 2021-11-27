@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">A physics engineer who is into data science, full stack development and particle physics</h3>
 
@@ -38,10 +37,13 @@
 	<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 	<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+	<a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
+	<a href="https://redux.js.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="40" height="40"/> </a>
 <h4 align="left">Back-end:</h4>
 <p align="left">
 	<a href="https://nodejs.org" target="_blank"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="nodejs" width="40" height="40"/> </a>
 	<a href="https://expressjs.com" target="_blank"> <img src="https://expressjs.com/images/favicon.png" alt="express" width="35" height="35"/> </a>
+	<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/favicon.6dbf28c0650e.ico" alt="django" width="40" height="40"/> </a>
 	<a href="https://www.postgresql.org" target="_blank"> <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="postgresql" width="40" height="40"/> </a>
 	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
