@@ -51,7 +51,7 @@
 	<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" alt="bash" width="40" height="40"/> </a>
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 	<a href="https://www.vim.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/> </a>
-	<a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/themes/divi-child/assets/images/product/product-body-background.svg" alt="vim" width="40" height="40"/> </a>
+	<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="vim" width="40" height="40"/> </a>
 </p>
 
 <!--
