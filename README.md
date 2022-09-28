@@ -37,6 +37,7 @@
 	<a href="https://www.postgresql.org" target="_blank"> <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="postgresql" width="40" height="40"/> </a>
 	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
+<img src="https://roboticoverlords.org/wallpapers/archbtw.png" alt="arch" width="30%" align="right"/>
 <h4 align="left">Front-end:</h4>
 <p align="left">
 	<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -49,9 +50,6 @@
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 	<a href="https://www.vim.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/> </a>
 	<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="vim" width="50" height="50"/> </a>
-</p>
-<p align="center">
-	 <a href="https://archlinux.org/" target="_blank"> <img src="https://roboticoverlords.org/wallpapers/archbtw.png" alt="git" width="243" height="165"/> </a>
 </p>
 
 
