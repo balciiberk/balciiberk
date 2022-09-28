@@ -50,7 +50,7 @@
 	<a href="https://www.vim.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/> </a>
 	<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="vim" width="50" height="50"/> </a>
 </p>
-<p align="right">
+<p align="center">
 	 <a href="https://archlinux.org/" target="_blank"> <img src="https://roboticoverlords.org/wallpapers/archbtw.png" alt="git" width="243" height="165"/> </a>
 </p>
 
