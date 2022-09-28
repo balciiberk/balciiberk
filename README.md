@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">A physics engineer who is into data science, full stack development and particle physics</h3>
+<h3 align="center">A physics engineer who is into data science, full stack development and experimental particle physics</h3>
 
 - 🔭 I’m currently a researcher at **CERN**
-- 🌱 I’m currently learning **GRID computing and big data analysis at CERN**
-- 💬 I love talking about **any field of data, programming and particle physics.** 
+- 🌱 I’m currently learning **cloud computing and containerization**
+- 💬 I love talking about **experimental particle physics and any field of data** 
 - ⚡ Fun fact about me: **I'm a coffee, Rubik's cube and Vim addict**
 
 <h3 align="left">Connect with me:</h3>
@@ -29,6 +29,7 @@
 	<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 	<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 	<a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/> </a> 
+	<a href="https://root.cern/" target="_blank"> <img src="https://root.cern/img/logos/ROOT_Logo/misc/logo_full-plus-text-ver.png" alt="NumPy" width="40" height="40"/> </a>
 </p>
 <h4 align="left">Back-end:</h4>
 <p align="left">	
@@ -50,6 +51,7 @@
 	<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" alt="bash" width="40" height="40"/> </a>
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 	<a href="https://www.vim.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/> </a>
+	<a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/themes/divi-child/assets/images/product/product-body-background.svg" alt="vim" width="40" height="40"/> </a>
 </p>
 
 <!--
