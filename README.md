@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">A physics engineer who is into data science, full stack development and experimental particle physics</h3>
-
-- 🔭 I’m currently a researcher at **CERN**
-- 🌱 I’m currently learning **cloud computing and containerization**
-- 💬 I love talking about **experimental particle physics and any field of data** 
-- ⚡ Fun fact about me: **I'm a coffee, Rubik's cube and Vim addict**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/balciiberk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balciiberk" height="30" width="40" /></a>
